@@ -1,0 +1,2 @@
+# shortsearn
+Short Earn Website
